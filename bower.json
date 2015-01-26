@@ -1,0 +1,17 @@
+{
+  "name": "lf-firebase-auth",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fortesl/thestore",
+  "author": {
+    "name": "Luis Fortes lmlf100@gmail.com",
+    "url": "https://www.linkedin.com/in/luisfortes"
+  },
+  "description": "An angular module for firebase email & password authentication",
+  "main": "lf-firebase-auth-service.js",
+  "keywords": [
+    "firebase",
+    "angular",
+    "authentication"
+  ],
+  "license": "ISC"
+}
