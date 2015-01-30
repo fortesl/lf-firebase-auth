@@ -24,6 +24,12 @@ Methods available on the lfFirebaseAuthService:
 
 Usage example
 -------------
+First include the javascript file in your html document:<p>
+    &lt;script src="./lf-firebase-auth/lf-firebase-auth-service.js"&gt;&lt;/script&gt;
+
+Then use in your own javascript file. Example shown below:
+
+
     var myApp = angular.module('myApp', ['lfFirebaseAuth']);
     myApp.constant('FIREBASE_URL',  'https://mydb.firebaseio.com');  // Needed by the auth service!!!
 
